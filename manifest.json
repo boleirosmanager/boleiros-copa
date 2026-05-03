@@ -2,7 +2,8 @@
   "name": "Boleiros Copa 2026",
   "short_name": "Boleiros",
   "description": "O gerenciador da Copa do Mundo 2026",
-  "start_url": "/boleiros-copa.html",
+  "start_url": "/boleiros-copa/boleiros-copa.html",
+  "scope": "/boleiros-copa/"  
   "display": "standalone",
   "background_color": "#0a0f1a",
   "theme_color": "#0a0f1a",
